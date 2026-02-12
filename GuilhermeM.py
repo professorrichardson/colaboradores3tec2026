@@ -1,0 +1,1 @@
+print("Opa meu nome é Guilherme Marinho, sou aluno do Richard")
