@@ -1,4 +1,4 @@
-nome = Guilherme
+nome = "Guilherme"
 
 def nome(props):
     print(props)
